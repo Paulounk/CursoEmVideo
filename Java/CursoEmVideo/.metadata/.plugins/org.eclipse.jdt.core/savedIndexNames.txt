@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\Pessoal\Projetos\CursoEmVideo\Java\CursoEmVideo\.metadata\.plugins\org.eclipse.jdt.core
+1520285278.index
+3219656564.index

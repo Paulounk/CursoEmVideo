@@ -1,0 +1,22 @@
+package Aulas;
+
+import javax.swing.JOptionPane;
+
+public class TelaSwing {
+
+	public static void main(String[] args) {
+		
+		int n = 0, s = 0;
+		
+		do {
+			
+			n = Integer.parseInt(JOptionPane.showInputDialog(null, "Digite um numero: "));
+			s += n;
+			
+		}while(n!=0);
+		
+		JOptionPane.showMessageDialog(null,"A soma dos numeros digitados é: " + s);
+		
+	}
+
+}

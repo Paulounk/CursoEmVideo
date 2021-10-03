@@ -1,0 +1,18 @@
+package UltraEmojiCombat;
+
+public class UltraEmojiCombat {
+
+	public static void main(String[] args) {
+		
+		Lutador player[] = new Lutador [6]; 
+		
+		player[0] = new Lutador("Pretty Boy", "França", 31, 1.75, 68.9, 11, 2, 1);
+		player[1] = new Lutador("Pustscript", "Brasil", 29, 1.68, 57.8, 14, 2, 3);
+		
+		player[0].apresentar();
+		
+
+	}
+
+}
+;

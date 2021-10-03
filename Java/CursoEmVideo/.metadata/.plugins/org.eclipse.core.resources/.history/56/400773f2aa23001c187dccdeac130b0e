@@ -1,0 +1,5 @@
+package Pratical_Work;
+
+public interface Publicacao {
+
+}
